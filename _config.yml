@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Esmaili Mallory"
+title                    : "Eduardo Isaac Tenorio"
 title_separator          : "-"
-name                     : &name "Matthew Esmaili Mallory"
-description              : &description "Statistics PhD Student at Harvard University."
-url                      : https://mattesmaili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Eduardo Isaac Tenorio"
+description              : &description "Computer Engineering student at University of Arkansas."
+url                      : https://edtenorio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthew Esmaili Mallory"
+  name             : "Eduardo Isaac Tenorio"
   avatar           : "profile.png"
-  bio              : "Statistics PhD Student @ Harvard University"
-  location         : "Cambridge, MA" 
-  #employer         : "Harvard University"
- # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=yk_cLe4AAAAJ&hl=en"
-  email            : "matthewmallory@fas.harvard.edu"
+  bio              : "Computer Engineering Student @ University of Arkansas"
+  location         : "Fayetteville, AR" 
+  #employer         : "University of Arkansas"
+ # pubmed           : "    "
+  googlescholar    : "     "
+  email            : "et025@uark.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "mattesmaili"
+  #github           : "edtenorio"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "matthew-esmaili-mallory"
+  linkedin         : "eduardo-tenorio-22325719b/"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
