@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Eduardo I. Tenorio"
 title_separator          : "-"
-name                     : &name "Eduardo Isaac Tenorio Gonzalez"
+name                     : &name "Eduardo Isaac Tenorio"
 description              : &description "Computer Engineering student at University of Arkansas."
 url                      : https://edtenorio.github.io
 baseurl                  : ""
@@ -76,7 +76,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eduardo Isaac Tenorio Gonzalez"
+  name             : "Eduardo Isaac Tenorio"
   avatar           : "profile.png"
   bio              : "Computer Engineering Student @ University of Arkansas"
   location         : "Fayetteville, AR"
