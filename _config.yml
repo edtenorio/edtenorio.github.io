@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eduardo Isaac Tenorio"
+title                    : "Eduardo Tenorio"
 title_separator          : "-"
-name                     : &name "Eduardo Isaac Tenorio"
+name                     : &name "Eduardo Isaac Tenorio Gonzalez"
 description              : &description "Computer Engineering student at University of Arkansas."
 url                      : https://edtenorio.github.io
 baseurl                  : ""
