@@ -22,8 +22,9 @@ Outside the classroom, I enjoy watching movies, dancing(tropical dances like sal
 - Shrimp Enthusiastic
   
 
-### Languages
-Spanish – Native
-English – Professional proficiency
-Italian – Intermediate proficiency
+### Languages  
+Spanish – Native <br>  
+English – Professional proficiency <br>  
+Italian – Intermediate proficiency <br>  
 Portuguese – Intermediate proficiency
+
