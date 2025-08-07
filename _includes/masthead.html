@@ -5,8 +5,8 @@
        style="display: flex; justify-content: space-between; align-items: center; padding: 1.5rem 2rem; border-bottom: 1px solid #eee;">
     
     <!-- Left: Site Title -->
-    <div style="font-weight: 600; font-size: 20px;">
-      <a href="{{ base_path }}/">
+    <div style="font-weight: 600; font-size: 18px;">
+      <a href="{{ base_path }}/" style="text-decoration: none; color: silver;">
         {{ site.title }}
       </a>
     </div>
@@ -15,7 +15,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <ul class="visible-links"
-            style="display: flex; list-style: none; gap: 0.2rem; margin: 0; padding: 0;">
+            style="display: flex; list-style: none; gap: 2rem; margin: 0; padding: 0;">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -23,7 +23,7 @@
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}">
+              <a href="{{ domain }}{{ link.url }}" style="text-decoration: none; color: #555; font-weight: 500;">
                 {{ link.title }}
               </a>
             </li>
