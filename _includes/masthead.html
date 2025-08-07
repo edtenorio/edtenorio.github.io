@@ -1,28 +1,29 @@
 {% include base_path %}
 
-<div class="masthead" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem 2rem;">
-  <div class="site-title" style="font-weight: bold;">
+<!-- Header Container -->
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 1.5rem 2rem; border-bottom: 1px solid #eee;">
+  <!-- Left Side: Name -->
+  <div style="font-weight: 600; font-size: 18px;">
     <a href="{{ base_path }}/" style="text-decoration: none; color: inherit;">
       {{ site.title }}
     </a>
   </div>
 
-  <div class="masthead__menu">
-    <nav id="site-nav" class="greedy-nav" style="display: flex; align-items: center;">
-      <ul class="visible-links" style="display: flex; gap: 1.5rem; list-style: none; margin: 0; padding: 0;">
-        {% for link in site.data.navigation.main %}
-          {% if link.url contains 'http' %}
-            {% assign domain = '' %}
-          {% else %}
-            {% assign domain = base_path %}
-          {% endif %}
-          <li class="masthead__menu-item">
-            <a href="{{ domain }}{{ link.url }}" style="text-decoration: none; color: #555;">
-              {{ link.title }}
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </div>
+  <!-- Right Side: Nav Links -->
+  <nav id="site-nav">
+    <ul style="display: flex; list-style: none; gap: 2rem; margin: 0; padding: 0;">
+      {% for link in site.data.navigation.main %}
+        {% if link.url contains 'http' %}
+          {% assign domain = '' %}
+        {% else %}
+          {% assign domain = base_path %}
+        {% endif %}
+        <li>
+          <a href="{{ domain }}{{ link.url }}" style="text-decoration: none; color: #555; font-weight: 500;">
+            {{ link.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
 </div>
