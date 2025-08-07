@@ -13,7 +13,7 @@ I’m a fourth-year student at the University of Arkansas majoring in Computer E
 
 What excites me most is the challenge of turning messy, unpredictable information into something meaningful. I love asking questions, building solutions, and learning from every failure along the way.
 
-Outside the classroom, I enjoy watching movies, dancing(tropical dances like salsa, merengue, bachata), and I’m always up for solving a good puzzle. I don’t have it all figured out yet, but I’m excited for what’s ahead and ready to put in the work to get there.
+Outside the classroom, I enjoy watching movies, dancing(tropical dances like salsa, merengue, bachata), and I’m always up for solving a good puzzle. 
 
 
 ## Fun facts 
