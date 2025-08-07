@@ -24,7 +24,7 @@ Outside the classroom, I enjoy watching movies, dancing(tropical dances like sal
 
 ### Languages
 <p style="margin: 0">Spanish – Native</p>
-<p style="margin: 0">English – Professional proficiency</p>
-<p style="margin: 0">Italian – Intermediate proficiency</p>
+<p style="margin: 0">English  – Professional proficiency</p>
+<p style="margin: 0">Italian   – Intermediate proficiency</p>
 <p style="margin: 0">Portuguese – Intermediate proficiency</p>
 
