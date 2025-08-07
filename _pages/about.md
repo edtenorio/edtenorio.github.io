@@ -21,7 +21,7 @@ My full Name is Eduardo Isaac Tenorio González. I was born and raised in a smal
 
 ### Languages
 - Spanish – Native
-- English  – Professional proficiency</p>
-- Italian  – Intermediate proficiency</p>
-- Portuguese – Intermediate proficiency</p>
+- English  – Professional proficiency
+- Italian  – Intermediate proficiency
+- Portuguese – Intermediate proficiency
 
