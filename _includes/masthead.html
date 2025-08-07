@@ -1,38 +1,28 @@
 {% include base_path %}
 
 <div class="masthead">
-  <div class="masthead__inner-wrap" style="display: flex; justify-content: space-between; align-items: center; padding: 1.5rem 2rem; border-bottom: 1px solid #eee;">
+  <div class="masthead__inner-wrap" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem 1.5rem; border-bottom: 1px solid #eee;">
     
-    <!-- Left Side: Site Title -->
+    <!-- Left: Eduardo I. Tenorio -->
     <div style="font-weight: 600; font-size: 18px;">
       <a href="{{ base_path }}/" style="text-decoration: none; color: inherit;">
         {{ site.title }}
       </a>
     </div>
 
-    <!-- Right Side: Navigation Menu -->
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-
-        <ul class="visible-links" style="display: flex; list-style: none; gap: 2rem; margin: 0; padding: 0;">
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-            {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}" style="text-decoration: none; color: #555; font-weight: 500;">
-                {{ link.title }}
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
-
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
+    <!-- Right: Navigation Menu -->
+    <nav id="site-nav" class="greedy-nav">
+      <ul class="visible-links" style="display: flex; list-style: none; gap: 2rem; margin: 0; padding: 0;">
+        {% for link in site.data.navigation.main %}
+          {% assign domain = link.url contains 'http' | where: true %} 
+          <li class="masthead__menu-item">
+            <a href="{{ domain | default: base_path }}{{ link.url }}" style="text-decoration: none; color: #555; font-weight: 500;">
+              {{ link.title }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
 
   </div>
 </div>
