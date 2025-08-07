@@ -1,28 +1,28 @@
 {% include base_path %}
 
-<div class="masthead" style="display: flex; justify-content: flex-end; align-items: center;">
-  <div class="masthead__inner-wrap" style="width: 100%;">
-    <div class="masthead__menu" style="display: flex; justify-content: flex-end; align-items: center;">
-      <nav id="site-nav" class="greedy-nav" style="display: flex; align-items: center;">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links" style="display: flex; gap: 1.5rem;">
-          <li class="masthead__menu-item masthead__menu-item--lg">
-            <a href="{{ base_path }}/">{{ site.title }}</a>
-          </li>
+<div class="masthead" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem 2rem;">
+  <div class="site-title" style="font-weight: bold;">
+    <a href="{{ base_path }}/" style="text-decoration: none; color: inherit;">
+      {{ site.title }}
+    </a>
+  </div>
 
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-            {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
+  <div class="masthead__menu">
+    <nav id="site-nav" class="greedy-nav" style="display: flex; align-items: center;">
+      <ul class="visible-links" style="display: flex; gap: 1.5rem; list-style: none; margin: 0; padding: 0;">
+        {% for link in site.data.navigation.main %}
+          {% if link.url contains 'http' %}
+            {% assign domain = '' %}
+          {% else %}
+            {% assign domain = base_path %}
+          {% endif %}
+          <li class="masthead__menu-item">
+            <a href="{{ domain }}{{ link.url }}" style="text-decoration: none; color: #555;">
+              {{ link.title }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
   </div>
 </div>
