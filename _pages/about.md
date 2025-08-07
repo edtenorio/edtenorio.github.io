@@ -17,14 +17,11 @@ Outside the classroom, I enjoy watching movies, dancing(tropical dances like sal
 
 
 ### Fun facts 
-- My full Name is Eduardo Isaac Tenorio González
-- I was born and raised in Agaudulce(Water-Sweet), Republic of Panama. 
-- Shrimp Enthusiastic
-  
+My full Name is Eduardo Isaac Tenorio González. I was born and raised in a small town called Aguadulce(Water-Sweet) in the Republic of Panama. I am a shrimp enthusiastic and love to walk after a long day of work. 
 
 ### Languages
-<p style="margin: 0">Spanish – Native</p>
-<p style="margin: 0">English  – Professional proficiency</p>
-<p style="margin: 0">Italian   – Intermediate proficiency</p>
-<p style="margin: 0">Portuguese – Intermediate proficiency</p>
+- Spanish – Native
+- English  – Professional proficiency</p>
+- Italian  – Intermediate proficiency</p>
+- Portuguese – Intermediate proficiency</p>
 
