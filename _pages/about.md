@@ -16,8 +16,14 @@ What excites me most is the challenge of turning messy, unpredictable informatio
 Outside the classroom, I enjoy watching movies, dancing(tropical dances like salsa, merengue, bachata), and I’m always up for solving a good puzzle. 
 
 
-## Fun facts 
+### Fun facts 
 - My full Name is Eduardo Isaac Tenorio González
 - I was born and raised in Agaudulce(Water-Sweet), Republic of Panama. 
 - Shrimp Enthusiastic
-- 
+  
+
+### Languages
+Spanish – Native
+English – Professional proficiency
+Italian – Intermediate proficiency
+Portuguese – Intermediate proficiency
