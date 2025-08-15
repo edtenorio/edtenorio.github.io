@@ -24,7 +24,7 @@ Tech: Python, pandas, statsmodels, pmdarima, Prophet, Matplotlib
 [Notebook/Code](https://github.com/edtenorio)  
 
 <p align="center">
-  <img src="/images/bayesian-ts..jpeg" alt="Forecasting" width="400">
+  <img src="/images/bayesian-ts.jpeg" alt="Forecasting" width="400">
 </p>
 
 
