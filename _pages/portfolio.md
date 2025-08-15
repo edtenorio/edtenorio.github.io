@@ -35,7 +35,7 @@ Includes backtesting with historical price data, performance metrics, and visual
 Tech: Python, pandas, matplotlib, yfinance  
 
 <p align="center">
-  <img src="/images/momentum-crossover.png" alt="Momentum Crossover Strategy" width="400">
+  <img src="/images/momentum-crossover.jpeg" alt="Momentum Crossover Strategy" width="400">
 </p>
 
 [Source Code](https://github.com/edtenorio/Momentum-Crossover-Strategy)
