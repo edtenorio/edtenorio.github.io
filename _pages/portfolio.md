@@ -9,7 +9,7 @@ permalink: /portfolio/
 ### Bayesian Spam Classifier (Naive Bayes + Laplace Smoothing)
 Classifies emails as spam/ham with probabilistic features, cross-validation, and calibration plots.  
 Tech: Python, scikit-learn, NumPy, Matplotlib  
-[Source Code](https://github.com/edtenorio/Spam-Classifier)
+[Github Repo](https://github.com/edtenorio/Spam-Classifier)
 
 <p align="center">
   <img src="/images/spam-bayes.jpeg" alt="Spam Project" width="400">
@@ -21,7 +21,7 @@ Tech: Python, scikit-learn, NumPy, Matplotlib
 ### Bayesian Time Series Forecasting for Stocks
 End‑to‑end pipeline on daily OHLCV: log‑returns, ADF test, baselines, ARIMA (auto_arima) and Prophet with uncertainty bands, metrics (MAE/RMSE/coverage), and plots.  
 Tech: Python, pandas, statsmodels, pmdarima, Prophet, Matplotlib  
-[Notebook/Code](https://github.com/edtenorio)  
+[Github Repo](https://github.com/edtenorio)  
 
 <p align="center">
   <img src="/images/bayesian-ts.jpeg" alt="Forecasting" width="400">
