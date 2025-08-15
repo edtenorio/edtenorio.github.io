@@ -21,7 +21,12 @@ Tech: Python, scikit-learn, NumPy, Matplotlib
 ### Bayesian Time Series Forecasting for Stocks
 End‑to‑end pipeline on daily OHLCV: log‑returns, ADF test, baselines, ARIMA (auto_arima) and Prophet with uncertainty bands, metrics (MAE/RMSE/coverage), and plots.  
 Tech: Python, pandas, statsmodels, pmdarima, Prophet, Matplotlib  
-[Notebook/Code](https://github.com/edtenorio) • ![Forecasting](/images/projects/bayesian-ts.png)
+[Notebook/Code](https://github.com/edtenorio)  
+
+<p align="center">
+  <img src="/images/bayesian-ts..jpeg" alt="Forecasting" width="400">
+</p>
+
 
 ---
 
