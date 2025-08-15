@@ -80,7 +80,6 @@ Tech: Kotlin, LibGDX, Gradle
 
 - **Building a Generative AI-Ready Organization** — Amazon Web Services  
   *Machine Learning*  
-  [View Certificate]()
 
 - **Google AI Essentials** — Google  
   *Critical Thinking*  
