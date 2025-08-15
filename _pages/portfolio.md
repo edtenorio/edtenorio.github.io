@@ -37,13 +37,6 @@ Tech: Python, pandas, implicit/ALS, evaluation@K
 
 ---
 
-### Dependency Vulnerability Risk Analyzer (NVD)
-Prototype tool that parses project manifests (Maven/Gradle/Python/Go), maps to CPEs, queries NVD CVEs, and produces a risk report with severity and remediation hints.  
-Tech: Python, CLI, JSON, NVD data  
-[Repo](https://github.com/edtenorio) • ![Risk Tool](/images/projects/deps-risk.png)
-
----
-
 ### KSL 2D Animation Library (Capstone)
 Team project extending the Kotlin Simulation Library with a portable 2D animation system (timelines, sprites, easing), demo scenes, and clean API docs.  
 Tech: Kotlin, LibGDX, Gradle  
