@@ -7,12 +7,14 @@ permalink: /portfolio/
 ## 🔧 Projects
 
 ### Bayesian Spam Classifier (Naive Bayes + Laplace Smoothing)
-Classifies emails as spam/ham with probabilistic features, cross‑validation, and calibration plots.  
-Tech: Python, scikit‑learn, NumPy, Matplotlib  
-[Source Code](https://github.com/edtenorio/Spam-Classifier) •  
+Classifies emails as spam/ham with probabilistic features, cross-validation, and calibration plots.  
+Tech: Python, scikit-learn, NumPy, Matplotlib  
+
 <p align="center">
   <img src="/images/spam-bayes.jpeg" alt="Spam Project" width="400">
 </p>
+
+[Source Code](https://github.com/edtenorio/Spam-Classifier)
 
 
 ---
