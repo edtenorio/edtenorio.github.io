@@ -40,7 +40,7 @@ Tech: Python, pandas, implicit/ALS, evaluation@K
 ### KSL 2D Animation Library (Capstone)
 Team project extending the Kotlin Simulation Library with a portable 2D animation system (timelines, sprites, easing), demo scenes, and clean API docs.  
 Tech: Kotlin, LibGDX, Gradle  
-[Project Overview](https://github.com/edtenorio) • ![KSL](/images/projects/ksl-2d.png)
+[Project Overview](https://github.com/rossetti/Animation-Library-for-KSL) 
 
 ---
 
