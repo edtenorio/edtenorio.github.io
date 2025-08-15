@@ -33,7 +33,7 @@ Tech: Python, pandas, statsmodels, pmdarima, Prophet, Matplotlib
 Implements a trading strategy based on momentum signals using short- and long-term moving average crossovers.  
 Includes backtesting with historical price data, performance metrics, and visual trade markers on charts.  
 Tech: Python, pandas, matplotlib, yfinance  
-[Source Code](https://github.com/edtenorio/Momentum-Crossover-Strategy)
+[Github Repo](https://github.com/edtenorio/Momentum-Crossover-Strategy)
 
 <p align="center">
   <img src="/images/momentum-crossover.jpeg" alt="Momentum Crossover Strategy" width="400">
