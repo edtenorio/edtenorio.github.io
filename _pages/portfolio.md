@@ -58,13 +58,31 @@ Tech: Kotlin, LibGDX, Gradle
 
 ## 📜 Certificates
 
-> Add your PDFs to `/assets/certificates/` and replace the links below.
+- **Calculus for Machine Learning and Data Science** — DeepLearning.AI  
+  *Machine Learning, Neural Networks, Regression, Algorithms, Linear Algebra*  
+  [View Certificate](LINK)
 
-- **Certificate 1 — _Title here_**  
-  Issuer — Year  
-  [View PDF](/assets/certificates/certificate-1.pdf)
+- **Linear Algebra for Machine Learning and Data Science** — DeepLearning.AI  
+  *Algebra, Machine Learning, Linear Algebra*  
+  [View Certificate](LINK)
 
-- **Certificate 2 — _Title here_**  
-  Issuer — Year  
-  [View PDF](/assets/certificates/certificate-2.pdf)
+- **Fundamentals of Quantitative Modeling** — University of Pennsylvania  
+  *Business Analysis, Statistical Analysis, Regression, Continuous Delivery, Visualization*  
+  [View Certificate](LINK)
+
+- **Python Data Structures** — University of Michigan  
+  *Data Analysis, Data Management, Computational Logic, Exploratory Data Analysis*  
+  [View Certificate](LINK)
+
+- **Programming for Everybody (Getting Started with Python)** — University of Michigan  
+  *Python Programming, Software Visualization, Problem Solving, Data Engineering*  
+  [View Certificate](LINK)
+
+- **Building a Generative AI-Ready Organization** — Amazon Web Services  
+  *Machine Learning*  
+  [View Certificate](LINK)
+
+- **Google AI Essentials** — Google  
+  *Critical Thinking*  
+  [View Certificate](LINK)
 
