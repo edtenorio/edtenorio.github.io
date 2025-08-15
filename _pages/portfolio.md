@@ -60,29 +60,29 @@ Tech: Kotlin, LibGDX, Gradle
 
 - **Calculus for Machine Learning and Data Science** — DeepLearning.AI  
   *Machine Learning, Neural Networks, Regression, Algorithms, Linear Algebra*  
-  [View Certificate](LINK)
+  [View Certificate](/images/CalculusML.pdf)
 
 - **Linear Algebra for Machine Learning and Data Science** — DeepLearning.AI  
   *Algebra, Machine Learning, Linear Algebra*  
-  [View Certificate](LINK)
+  [View Certificate](/images/LinearAlgebraML.pdf)
 
 - **Fundamentals of Quantitative Modeling** — University of Pennsylvania  
   *Business Analysis, Statistical Analysis, Regression, Continuous Delivery, Visualization*  
-  [View Certificate](LINK)
+  [View Certificate](/images/FundamentalsofQuantitativeModeling.pdf)
 
 - **Python Data Structures** — University of Michigan  
   *Data Analysis, Data Management, Computational Logic, Exploratory Data Analysis*  
-  [View Certificate](LINK)
+  [View Certificate](/images/PythonDataStructures.pdf)
 
 - **Programming for Everybody (Getting Started with Python)** — University of Michigan  
   *Python Programming, Software Visualization, Problem Solving, Data Engineering*  
-  [View Certificate](LINK)
+  [View Certificate](/images/ProgrammingforEverybody.pdf)
 
 - **Building a Generative AI-Ready Organization** — Amazon Web Services  
   *Machine Learning*  
-  [View Certificate](LINK)
+  [View Certificate]()
 
 - **Google AI Essentials** — Google  
   *Critical Thinking*  
-  [View Certificate](LINK)
+  [View Certificate](/images/GoogleAIEssentials.pdf)
 
