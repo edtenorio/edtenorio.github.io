@@ -29,6 +29,18 @@ Tech: Python, pandas, statsmodels, pmdarima, Prophet, Matplotlib
 
 
 ---
+### Momentum Crossover Strategy (Backtesting & Analysis)
+Implements a trading strategy based on momentum signals using short- and long-term moving average crossovers.  
+Includes backtesting with historical price data, performance metrics, and visual trade markers on charts.  
+Tech: Python, pandas, matplotlib, yfinance  
+
+<p align="center">
+  <img src="/images/momentum-crossover.png" alt="Momentum Crossover Strategy" width="400">
+</p>
+
+[Source Code](https://github.com/edtenorio/Momentum-Crossover-Strategy)
+
+---
 
 ### Probabilistic Recommendation System
 Builds a top‑N recommender with uncertainty‑aware scoring: implicit feedback matrix, train/val split by time, regularized MF, and posterior-style confidence to handle cold‑start risk.  
